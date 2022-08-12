@@ -1,4 +1,4 @@
-A complete boilerplate application architecture to start with a small team and scale up to a production-ready application. 
+A complete boilerplate application architecture to start with a small team and scale up to a production. 
 
 - Dir Structure
 - Prettier
