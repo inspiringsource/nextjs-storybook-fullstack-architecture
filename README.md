@@ -2,7 +2,7 @@ A complete boilerplate application architecture to start with a small team and s
 
 - Dir Structure
 - Prettier
-- ~~Git Hooks~~
+- Git Hooks (~~Husky~~)
 - Storybook (Webpack5)
 - ESLint
 - Prettier
