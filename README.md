@@ -5,7 +5,6 @@ A complete boilerplate application architecture to start with a small team and s
 - Git Hook (Husky)
 - Storybook (Webpack5)
 - ESLint
-- Prettier
 
 
 This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
