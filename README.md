@@ -2,7 +2,7 @@ A complete Nextjs Storybook architecture to start a project with a small team an
 
 - Dir Structure
 - Prettier
-- Git Hook (Husky)
+- ~~Git Hook (Husky)~~
 - Storybook (Webpack5)
 - ESLint
 
