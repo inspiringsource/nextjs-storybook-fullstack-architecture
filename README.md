@@ -1,4 +1,4 @@
-A complete Nextjs Storybook architecture to start a project with a small team and scale up to a production. 
+A complete Nextjs Storybook architecture to start a project with a small team and scale up to production. 
 
 - Dir Structure
 - Prettier
